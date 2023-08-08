@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MTA Pizza - Part 4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Targil4.c
+C:\Users\yuval\source\repos\MTA Pizza - Part 4\MTA Pizza - Part 4\Targil4.c(87,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yuval\source\repos\MTA Pizza - Part 4\MTA Pizza - Part 4\Targil4.c(634,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yuval\source\repos\MTA Pizza - Part 4\MTA Pizza - Part 4\Targil4.c(1016,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuval\source\repos\MTA Pizza - Part 4\MTA Pizza - Part 4\Targil4.c(949,9): warning C4101: 'overall_amount_toppings': unreferenced local variable
+C:\Users\yuval\source\repos\MTA Pizza - Part 4\MTA Pizza - Part 4\Targil4.c(947,13): warning C4101: 'count': unreferenced local variable
+  MTA Pizza - Part 4.vcxproj -> C:\Users\yuval\source\repos\MTA Pizza - Part 4\x64\Debug\MTA Pizza - Part 4.exe
